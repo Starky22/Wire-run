@@ -1,0 +1,4 @@
+repository "Wire-run@StarKky22@cloud"
+  path "/"
+    br "/main"
+    co "/main"
